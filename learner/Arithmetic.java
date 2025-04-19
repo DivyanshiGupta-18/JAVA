@@ -1,3 +1,4 @@
+package learner;
 import java.util.Scanner;
 
 class Arithmetic {

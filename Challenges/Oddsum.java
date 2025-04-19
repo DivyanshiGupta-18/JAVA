@@ -22,3 +22,29 @@ public class Oddsum {
         return sum;
     }
 }
+
+
+
+
+
+
+
+// public static void main(String[] args) {
+//     System.out.println("Create a program to calculate sum & average of all the elements in an array.");
+//     Scanner input = new Scanner(System.in);
+//     System.out.print("Enter the number of elements in the array: ");
+//     int n = input.nextInt();
+//     int[] arr = new int[n];
+//     System.out.println("Enter the elements of the array:");
+//     for (int i = 0; i < n; i++) {
+//         arr[i] = input.nextInt();
+//     }
+//     int sum = 0;
+//     for (int i = 0; i < n; i++) {
+//         sum += arr[i];
+//     }
+//     double average = (double) sum / n;
+//     System.out.println("Sum of the elements in the array: " + sum);
+//     System.out.println("Average of the elements in the array: " + average);
+//     input.close();
+// }   

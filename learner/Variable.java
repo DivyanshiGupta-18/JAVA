@@ -1,3 +1,4 @@
+package learner;
 public class Variable {
     public static void main(String[] args) {
         int myNumber = 45613;

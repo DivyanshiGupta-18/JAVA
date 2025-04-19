@@ -1,3 +1,4 @@
+package learner;
  class Ifelse {
      public static void main(String[] args){
                  boolean isMale = true;
