@@ -15,7 +15,7 @@ public class TwoRecurssion {
         // factorial(N);
        // reverse(arr, N);
       // palindromeCheck(s);
-       Fibonacci(N);
+       //Fibonacci(N);
     }
     public static void addNumbers(int N) {
         int sum = 0;

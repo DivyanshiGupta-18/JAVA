@@ -1,5 +1,5 @@
 package learner;
-import java.util.Scanner;
+import java.util.*;
 
 public class TenLoop {
     public static void main(String[] args) {
